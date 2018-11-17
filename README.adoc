@@ -1,0 +1,12 @@
+= Common R2DBC Resources
+
+This repository contains common resources for R2DBC projects. These are in particular:
+
+* link:CONTRIBUTING.adoc[Contribution Guidelines]
+* link:CODE_OF_CONDUCT.adoc[Code of Conduct]
+* link:LICENSE.txt[Apache License 2.0]
+* link:intellij-style.xml[IntelliJ Formatter Settings]
+
+== How to use
+
+R2DBC projects should copy all resources except README into their repositories and update resources upon change of the original resource.
