@@ -1,6 +1,6 @@
-= Common R2DBC Resources
+= Common https://r2dbc.io[R2DBC] Resources
 
-This repository contains common resources for R2DBC projects. These are in particular:
+This repository contains common resources for https://r2dbc.io[R2DBC] projects. These are in particular:
 
 * link:CONTRIBUTING.adoc[Contribution Guidelines]
 * link:CODE_OF_CONDUCT.adoc[Code of Conduct]
