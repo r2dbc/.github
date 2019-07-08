@@ -70,15 +70,15 @@ In that sense discussions directly under a PR are more implementation detail ori
 3. Always check out the `master` branch and submit pull requests against it.
 Backports to prior versions will be considered on a case-by-case basis and reflected as the fix version in the issue tracker.
 
-3. Use short branch names, preferably based on the GitHub issue (e.g. `gh-1234`), or otherwise using succinct, lower-case, dash (-) delimited names, such as `fix-warnings`.
+4. Use short branch names, preferably based on the GitHub issue (e.g. `gh-1234`), or otherwise using succinct, lower-case, dash (-) delimited names, such as `fix-warnings`.
 
-4. Choose the granularity of your commits consciously and squash commits that represent multiple edits or corrections of the same logical change. 
+5. Choose the granularity of your commits consciously and squash commits that represent multiple edits or corrections of the same logical change. 
 See https://git-scm.com/book/en/Git-Tools-Rewriting-History[Rewriting History section of Pro Git] for an overview of streamlining commit history.
 
-5. Format commit messages using 55 characters for the subject line, 72 lines for the description, followed by related issues, e.g. `[resolves #1234]`
+6. Format commit messages using 55 characters for the subject line, 72 lines for the description, followed by related issues, e.g. `[resolves #1234]`
 See the https://git-scm.com/book/en/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines[Commit Guidelines section of Pro Git] for best practices around commit messages and use `git log` to see some examples.
 
-5. List the GitHub issue number in the PR description.
+7. List the GitHub issue number in the PR description.
 
 If accepted, your contribution may be heavily modified as needed prior to merging.
 You will likely retain author attribution for your Git commits granted that the bulk of your changes remain intact. 
